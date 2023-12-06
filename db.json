@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "title": "eum et est occaecati",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+      "userId": "1",
+      "id": 4
+    },
+    {
+      "title": "Javascript",
+      "body": "\nJavaScript is a high-level, versatile, and interpreted programming language primarily used for front-end web development. Developed by Netscape, JavaScript has evolved into one of the most widely used scripting languages, providing the ability to create dynamic and interactive content on websites.",
+      "userId": "10",
+      "id": 9
+    },
+    {
+      "title": "Angular",
+      "body": "\nAngular is a widely used open-source web application framework maintained by Google and a community of developers. It is written in TypeScript and allows developers to build dynamic, single-page web applications (SPAs). Angular provides a comprehensive set of tools and libraries for various tasks, including building user interfaces, handling data, managing application state, and handling events.",
+      "userId": "10",
+      "id": 10
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
